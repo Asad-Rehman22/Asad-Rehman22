@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Asad-Rehman22/Asad-Rehman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: .
+
+## Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Asad-Rehman22&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/Asad-Rehman22/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Rehman22&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/Asad-Rehman22/)
+[![Asad Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asad-Rehman22&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/Asad-Rehman22/)
